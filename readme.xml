@@ -1,0 +1,17 @@
+this my login and registration form using nodejs,express js and mongodb where 
+you can regester with new id just by using register menu and you can also login 
+using old credentials given below
+created by raj kale
+username :"galarianhht"
+password :"galaxy"
+
+username :"naruto2002"
+password :"rasengan"
+
+Steps to use:
+
+step 1: press register on home page
+step 2: fill all credentials on register page(it will direct you to login page succrsfully)
+step 3: now fill your username and password which registered back in step 2
+step 4: if you fill wrong credentials it will give you error
+step 5:if you fill right credentials it will direct you to response page
